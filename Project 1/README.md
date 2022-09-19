@@ -1,7 +1,7 @@
-### Purpose
+## Purpose
 Educators were facing a challenge to be able to get correct feedback from students so that they could get a proper idea of how effective their lectures were and what they could do to improve the quality of lectures and get better student retention during the lecture.
 
-### Methodology
+## Methodology
 
 We have been to multiple online meetings, especially during the pandemic, be it in Google Meet or Zoom or Microsoft Teams etc. One unique attribute of all these platforms is the unique division of people in different tiles. Each person has his/her own tile of the live stream, and the size of tile reduces or increases based on the number of people in that particular meeting. We wanted a system focused on each and every tile and assessing their emotional state at each instant of time. 
 
