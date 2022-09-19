@@ -1,9 +1,8 @@
 ## Internship
 
 ### Project 1 - 'Frame-by-frame capture of each participant with video in GMeet for further emotional behaviour analysis'
-### Other Projects - 'Speech based emotion recogniton trained and tested using TESS dataset'
 
-### References
+### Other Projects' References
 --> Face Recognition
 * https://cprimestudios.com/blog/deep-learning-face-recognition-how-improve-it
 * https://towardsdatascience.com/facial-recognition-using-deep-learning-a74e9059a150
