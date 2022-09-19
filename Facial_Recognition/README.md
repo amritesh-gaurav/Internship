@@ -15,4 +15,4 @@ Model model used for training, testing and optimisation.
 * With the help of the celebrities dataset, we realise which face detection model to use(MTCNN).
 * The face-clippings from Retina-Face were too short and didn't contain enough facial features.
 * The model gave an accuracy of 0.79 using certain optimisation on Tufus Dataset.
-* The model gave an accuracy of above 0.9 on Olivetti Dataset.
+* The model gave an accuracy of above 0.92 on Olivetti Dataset.
