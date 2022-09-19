@@ -1,4 +1,3 @@
-## Internship
 
 ### Project 1 - 'Frame-by-frame capture of each participant with video in GMeet for further emotional behaviour analysis'
 
